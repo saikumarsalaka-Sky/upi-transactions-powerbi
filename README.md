@@ -28,7 +28,7 @@ success rates, monthly trends, and usage patterns using Power BI.
 ![UPI Line Chart](screenshots/upi_transactions_line_chart.jpg)
 
 ### Column Chart – Monthly Transactions
-![UPI Column Chart](screenshots/upi_transactions_column_chart.jpg)
+![UPI Column Chart](screenshots/upi_transactions_column_chart.JPG)
 
 ### Matrix View – City & Month Breakdown
 ![UPI Matrix Chart](screenshots/upi_transactions_matrix_chart.jpg)
