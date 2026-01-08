@@ -18,7 +18,13 @@ success rates, monthly trends, and usage patterns using Power BI.
 - Average Transaction Value
 
 ## 📈 Dashboard Preview
+## 📊 Dashboard Preview
 
+![Line Chart](screenshots/UPI%20Transactions%20Line%20chart.jpg)
+
+![Column Chart](screenshots/UPI%20Transactions%20Column%20chart.jpg)
+
+![Matrix Chart](screenshots/UPI%20Transactions%20Matrix%20Chart.jpg)
 
 
 ## 🔍 Key Insights
