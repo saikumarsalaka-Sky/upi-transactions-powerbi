@@ -20,11 +20,14 @@ success rates, monthly trends, and usage patterns using Power BI.
 ## 📈 Dashboard Preview
 ## 📊 Dashboard Preview
 
-![Line Chart](screenshots/UPI%20Transactions%20Line%20chart.jpg)
+## 📊 Dashboard Preview
 
-![Column Chart](screenshots/UPI%20Transactions%20Column%20chart.jpg)
+![Line Chart](screenshots/upi_line.jpg)
 
-![Matrix Chart](screenshots/UPI%20Transactions%20Matrix%20Chart.jpg)
+![Column Chart](screenshots/upi_column.jpg)
+
+![Matrix Chart](screenshots/upi_matrix.jpg)
+
 
 
 ## 🔍 Key Insights
